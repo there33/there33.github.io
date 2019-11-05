@@ -25,13 +25,23 @@ Die im Vorfeld genannten Fakten über Payback geben bereits einen Überblick, wi
 ## Literaturverzeichnis
 
 Bruhn, M. (2016). Kundenorientierung. Bausteine für ein exzellentes Customer Relationship Managment (CRM) (5. überarbeitete Auflage). München: dtv Verlagsgesellschaft mbh & Co. KG.
+
 Kirchgeorg, M. (2018). Kunde Ausführliche Definition. Zugriff am 15.10.2019 unter https://wirtschaftslexikon.gabler.de/definition/kunde-37108/version-260551. 
+
 Reinke, M. (2011). 30 Minuten Neukunden-Gewinnung (2.überarbeitete Auflage). Offenbach: GABAL Verlag GmbH.
+
 Payback (2019). Über Payback. Daten und Fakten. Zugriff am 14.10.2019 unter https://www.payback.net/de/ueber-payback/daten-fakten/.
+
 Payback (2019). Wie funktioniert Payback. Zugriff am 14.10.2019 unter https://www.payback.de/faq/wie-funktioniert-payback.
+
 Payback (2019). Über Payback. Führendes Bonusprogramm, Grösste Couponing- und Multichannel Marketingplatform. Zugriff am 14.10.2019 unter https://www.payback.net/de/ueber-payback/.
-Payback (2019). Punkten Rundum Sicher! Bei Payback steh Datenschutz an erster Stelle. Der TÜV hat es bestätigt! Zugriff am 14.10.2019 unter https://www.payback.net/fileadmin/bilder/downloads/Payback_Datenschutz.png. 
+
+Payback (2019). Punkten Rundum Sicher! Bei Payback steh Datenschutz an erster Stelle. Der TÜV hat es bestätigt! Zugriff am 14.10.2019 unter https://www.payback.net/fileadmin/bilder/downloads/Payback_Datenschutz.png.
+
 Payback (2019). About You – Dein Fashion Online Store. Zugriff am 14.10.2019 unter https://www.payback.de/partner/aboutyou.
+
 Payback (2019). Jetzt mit Payback starten. Zugriff am 14.10.2019 unter https://www.payback.de/start.
+
 Payback (2019). Endspurt für den Punkte-Joker! Zugriff am 15.10.2019 unter https://www.payback.de/joker.
+
 Winkelmann, P. (2012). Vertriebskonzeption und Vertriebssteuerung. Die Instrumente des integrierten Kundenmanagements – CRM (5. überarbeitete Auflage). München: Franz Vahlen.
